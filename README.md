@@ -1,5 +1,4 @@
 # Relax & Breathe
-https://www.youtube.com/shorts/j7BXJaXW1js
 
 Application de relaxation et respiration profonde développée en Flutter. Elle propose un exercice de respiration guidé avec un élément visuel animé sur lequel se concentrer.
 
